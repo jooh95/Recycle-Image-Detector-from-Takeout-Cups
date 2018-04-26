@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cup</folder>
+	<filename>20_20180404_151321_501.jpg</filename>
+	<path>C:\Users\caucse\Downloads\windows_v1.6.0\cup\20_20180404_151321_501.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>216</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>recycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>94</ymin>
+			<xmax>112</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>
